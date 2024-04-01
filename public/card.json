@@ -1,0 +1,69 @@
+[
+    {
+        "news_id": 1,
+        "name": "City Council Approves Funding for New Park",
+        "author_name": "Jane Doe",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-01",
+        "image": "https://i.ibb.co/4TG8w2P/roman-kraft-Zua2hyv-TBk-unsplash.jpg",
+        "description": "The City Council has unanimously approved funding for the construction of a new park in the downtown area. The park, which will feature walking trails, playgrounds, and green spaces, is expected to be completed by the end of next year.",
+        "ratings": 4.5,
+        "views": 2500
+      },
+      {
+        "news_id": 2,
+        "name": "Local Artist's Exhibition Opens to Rave Reviews",
+        "author_name": "John Smith",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-02",
+        "image": "https://i.ibb.co/mRsWsbH/wherda-arsianto-l7d-P0-O8-Dj60-unsplash.jpg",
+        "description": "The latest exhibition by local artist Sarah Johnson has opened at the City Art Gallery to rave reviews. Johnson's vibrant and thought-provoking artwork explores themes of identity and social justice, drawing praise from critics and art enthusiasts alike.",
+        "ratings": 4.8,
+        "views": 3200
+      },
+      {
+        "news_id": 3,
+        "name": "New Study Shows Benefits of Meditation for Stress Reduction",
+        "author_name": "Alex Brown",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-03",
+        "image": "https://i.ibb.co/PWRGGDQ/farzad-mohamadi-6vs0o-FTpo-Qc-unsplash.jpg",
+        "description": "A new study published in the Journal of Mindfulness Research suggests that regular meditation practice can significantly reduce stress levels and improve overall well-being. The study, conducted by researchers at the University of Science, surveyed over 1,000 participants and found that those who engaged in daily meditation reported lower stress levels and higher levels of happiness.",
+        "ratings": 4.7,
+        "views": 2800
+      },
+      {
+        "news_id": 4,
+        "name": "Tech Company Launches Revolutionary New Smartphone",
+        "author_name": "Emma Jones",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-04",
+        "image": "https://i.ibb.co/rb6jMGV/huma-h-yardim-gf-ZZVi-Txuqw-unsplash.jpg",
+        "description": "Tech company InnovateX has launched its highly anticipated new smartphone, the XPhone Pro. Boasting cutting-edge features such as advanced AI capabilities, a triple-lens camera system, and ultra-fast 5G connectivity, the XPhone Pro is poised to revolutionize the smartphone market.",
+        "ratings": 4.9,
+        "views": 4800
+      },
+      {
+        "news_id": 5,
+        "name": "Local Food Bank Seeks Volunteers for Spring Food Drive",
+        "author_name": "Michael Adams",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-05",
+        "image": "https://i.ibb.co/y8v3dRN/egor-vikhrev-C7d-ZP5-Jo-Tzc-unsplash.jpg",
+        "description": "The City Food Bank is calling for volunteers to help with its annual Spring Food Drive. With the number of families in need on the rise, the food bank is aiming to collect enough donations to provide meals for those facing food insecurity in the community.",
+        "ratings": 4.6,
+        "views": 2000
+      },
+      {
+        "news_id": 6,
+        "name": "Environmental Group Hosts Clean-Up Event at Local Beach",
+        "author_name": "Sarah Wilson",
+        "author_image": "https://i.ibb.co/YLdns8T/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+        "date": "2024-04-06",
+        "image": "https://i.ibb.co/gWC3QGs/mr-cup-fabien-barral-Mwuod2cm8g4-unsplash.jpg",
+        "description": "The Green Earth Society is organizing a beach clean-up event this weekend to help protect local marine life and ecosystems. Volunteers are invited to join in the effort to remove litter and debris from the shoreline, promoting a cleaner and healthier environment for all.",
+        "ratings": 4.8,
+        "views": 3800
+      }
+]
+  
