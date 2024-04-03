@@ -11,7 +11,7 @@ const Newses = () => {
     }, [])
     return (
         <div>
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-10 mx-2">
+            <div className="grid grid-cols-1 gap-6 mx-2">
                 {newses.map(news => <News key={news.news_id} news={news}></News>)}
             </div>
         </div>
